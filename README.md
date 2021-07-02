@@ -74,13 +74,13 @@
 
 # Correlation
 
-![alt text](https://github.com/DjNontas/Knime/blob/main/Images/Correlation.jpeg)
+![alt text](https://github.com/Ggkenios/Covid19-KNIME/blob/main/Images/Correlation.jpeg)
 
 
 
 # PPS
 
-![alt text](https://github.com/DjNontas/Knime/blob/main/Images/PPS.png)
+![alt text](https://github.com/Ggkenios/Covid19-KNIME/blob/main/Images/PPS.png)
 
 
 
